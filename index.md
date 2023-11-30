@@ -2,122 +2,43 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Mi primer portafolio elaborado en el curso de  **GESCONVIAL**
 
-[Link to another page](./another-page.html).
+[https://www.facebook.com/diegoarmando.quispe.129](./another-page.html).
 
-There should be whitespace between paragraphs.
+El presente portafolio muestra algunos de los trabajos que hice en el curso de python aplicado a la ingenieria estructural.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# CURVA HISTERÉTICA
 
-# Header 1
+La curva histerética es la mejor representación gráfica que tiene un material cuando a este se le han aplicado cargas cíclicas. Para la curva histerética se han propuesto modelos matemáticos ajustados experimentalmente los cuales requieren parámetros mecánicos del material. 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+![Imagen1](assets\img\Curvahisterética.png)
+## Animación
 
-## Header 2
+> Esta curva gracias a la programación con Python podemos hacerla mas interactiva viendo el comportamiento que tiene esta, asi lo podemos mostrar en el siguiente ejemplo.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+![Imagen1](assets\img\Animacionpuntoylinearojo.gif)
 
-### Header 3
+Este curva histerética proviene de un ensayo de muros. que surgen como medida de disipación de la energia que se ve reflejada en los materiales, por ejemplo aqui se ve un ensayo de carga de un muro sometido a solicitanes.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+![Imagen1](assets\img\calib.gif)
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+# Registro Sismico
 
-#### Header 4
+*   En el presente curso tambien hicimos la grafica del registro sísmico
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+![Imagen1](assets\img\puntorojoespectro.gif)
+
+Esto también lo podemos hacer en un modo mas enfocado en una cierta parte.
+
+![Imagen1](assets\img\Animacionpuntoylinearojo2.gif)
 
 ##### Header 5
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+Este proyecto puede aplicarse a varios proyectos de la Ingeniería estructural, para hacer archivos mucho mas presentables, asi tmabien podemos realiar:
 
-###### Header 6
+1. Podemos hacer memorias de calculo
+2. Podemos elaborar funciones matematicas como con una calculadora cietífica
+3. Podemos trabajar en el analisis de pórticos con el anastruct, stko, etc.
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+![Imagen1](assets\img\ApuntesEstruc.png)
